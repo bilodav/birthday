@@ -1,0 +1,11 @@
+body {
+  background-image: url("./image2.png");
+  background-size: cover;
+}
+
+audio {
+  width: 100px;
+  opacity: 0.3;
+  position: absolute;
+  right: 2%;
+}
